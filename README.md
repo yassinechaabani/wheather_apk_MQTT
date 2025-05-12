@@ -1,6 +1,6 @@
 # station_meteo
 
-A new Flutter project.
+An Wheather application with Flutter using MQTT protocol with supabase integration .
 
 ## Getting Started
 
